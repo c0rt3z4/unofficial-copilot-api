@@ -1,0 +1,19 @@
+{
+  "name": "unofficial-copilot-api",
+  "version": "1.0.0",
+  "description": "Unofficial Microsoft Copilot WebSocket Api",
+  "main": "example.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "copilot",
+    "chat",
+    "ai",
+    "websocket"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
